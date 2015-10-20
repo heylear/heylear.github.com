@@ -1,0 +1,42 @@
+permalink: /:year-:month-:day/:title/
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: [
+   "no_intra_emphasis"
+   ,"fenced_code_blocks"
+   ,"autolink"
+   ,"tables"
+   ,"strikethrough"
+   ,"superscript"
+   ,"with_toc_data"
+   ,"footnotes"
+   ,"highlight"
+   ,"underline"
+   ,"quote"
+   ,"lax_spacing"
+   ,"prettify"
+  ]
+
+
+
+paginate: 8 
+paginate_path: ":num"
+baseurl: ""
+
+
+
+title: "痞子丶蔡的博客"
+email: "heylear@126.com"
+description: "技术之路，永无止境"
+github_username:  "heylear"
+swiftype_searchId: "giL8yz6VWszuXyVr3jbu"
+
+
+
+url: "http://www.heylear.com"
+imgrepo: "http://www.heylear.com/static/img"
+#url: "http://127.0.0.1:4000"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
