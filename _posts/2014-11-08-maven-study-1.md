@@ -2,8 +2,8 @@
 layout: post 
 title: "【转】Apache Maven 入门(上)" 
 date: 2014-11-08  
-categories: 构建工具
-tags: 构建 maven java
+categories: 构建
+tags: maven java
 --- 
 
 写这个 maven 的入门篇是因为之前在一个开发者会的动手实验中发现挺多人对于 maven 不是那么了解，所以就有了这个想法。

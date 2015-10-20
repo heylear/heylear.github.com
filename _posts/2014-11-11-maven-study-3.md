@@ -2,8 +2,8 @@
 layout: post 
 title: "Maven 项目实战备忘" 
 date: 2014-11-11 
-categories: 构建工具
-tags: 构建 maven java
+categories: 构建
+tags: maven java
 --- 
 
 #### 配置jdk1.7 Profile

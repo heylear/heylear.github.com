@@ -1,3 +1,11 @@
+---
+layout: post
+title: "git 命令备忘录"
+date: 2014-11-08
+categories: 构建
+tags: git
+---
+
 git init                                                  # 初始化本地git仓库（创建新仓库）<br/>
 git config --global user.name "xxx"                       # 配置用户名<br/>
 git config --global user.email "xxx@xxx.com"              # 配置邮件<br/>

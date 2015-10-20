@@ -2,8 +2,8 @@
 layout: post 
 title: "【转】Apache Maven 入门(下)" 
 date: 2014-11-09 
-categories: 构建工具
-tags: 构建 maven java
+categories: 构建
+tags: maven java
 --- 
 
 第一篇文章大概的介绍了一下Apache Maven以及它的下载和安装，并且运行了一个简单的示例。那么在对maven有了一点接触后，接下去的一步是要了解maven的核心概念，这样才能在使用maven的时候游刃有余。
