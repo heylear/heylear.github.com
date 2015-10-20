@@ -8,5 +8,6 @@ isNavItem: true
 ---
 #### 微信: heylear
 #### QQ:   24252495
-#### 邮箱: [heylear@126.com](mailto:heylear@126.com)
-#### 微博: [http://weibo.com/heylear](http://weibo.com/heylear)
+#### 邮箱: <heylear@126.com>
+#### 微博: <http://weibo.com/heylear>
+#### Github: <http://github.com/heylear>
