@@ -2,7 +2,7 @@
 layout: post
 title: "git 命令备忘录"
 date: 2014-11-08
-categories: 构建
+categories: 版本库
 tags: git
 ---
 
