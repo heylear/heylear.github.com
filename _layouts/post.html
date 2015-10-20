@@ -34,9 +34,6 @@ scripts: [toc.js,post.js]
           </div>
         </div>
         <div class="pad-min"></div>
-        <div id="post-comment" class="sheet post">
-            <div class="ds-thread" data-thread-key={{ page.id }} data-title="{{ page.title }}" data-url={{ site.url}}/{{ page.url }}></div>
-        </div>
     </div>
     <div class="content-navigation col-lg-3">
       <div class="shadow-bottom-center" >
@@ -103,14 +100,12 @@ scripts: [toc.js,post.js]
       </div>
     </div>
 </div>
+<!--高速版-->
+<div id="SOHUCS"></div>
+<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
 <script type="text/javascript">
-    var duoshuoQuery = {short_name:"Heylear"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0] 
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
+    window.changyan.api.config({
+        appid: 'cys3gJ2KO',
+        conf: 'prod_4a801b05f401b108af49ae80232f2e24'
+    });
 </script>
