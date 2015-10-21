@@ -3,4 +3,5 @@ _site
 .idea
 .local
 .local/*
+nohup.out
 heylear.github.io.iml

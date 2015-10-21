@@ -6,6 +6,7 @@ categories: 版本库
 tags: git
 ---
 
+#### 全局配置
 git init                                                  # 初始化本地git仓库（创建新仓库）<br/>
 git config --global user.name "xxx"                       # 配置用户名<br/>
 git config --global user.email "xxx@xxx.com"              # 配置邮件<br/>
@@ -15,6 +16,8 @@ git config --global color.diff auto<br/>
 git config --global color.branch auto<br/>
 git config --global color.interactive auto<br/>
 git config --global --unset http.proxy                    # remove  proxy configuration on git<br/>
+
+#### 版本管理
 git clone git+ssh://git@192.168.53.168/VT.git             # clone远程仓库<br/>
 git status                                                # 查看当前版本状态（是否修改）<br/>
 git add xyz                                               # 添加xyz文件至index<br/>
@@ -44,6 +47,8 @@ git diff HEAD -- ./lib                                    # 比较与HEAD版本l
 git diff origin/master..master                            # 比较远程分支master上有本地分支master上没有的<br/>
 git diff origin/master..master --stat                     # 只显示差异的文件，不显示具体内容<br/>
 git remote add origin git+ssh://git@192.168.53.168/VT.git # 增加远程定义（用于push/pull/fetch）<br/>
+
+#### 分支管理
 git branch                                                # 显示本地分支<br/>
 git branch --contains 50089                               # 显示包含提交50089的分支<br/>
 git branch -a                                             # 显示所有分支<br/>
