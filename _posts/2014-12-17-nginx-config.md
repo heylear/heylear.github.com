@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "nginx 配置文件(Tengine)"
-date: 2014-12-07
+date: 2014-12-17
 categories: linux
 tags: nginx centos 运维
 ---
