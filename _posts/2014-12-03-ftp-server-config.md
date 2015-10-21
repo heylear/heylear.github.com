@@ -33,7 +33,7 @@ vsftp 一般centos自带，安装方法不细说了。
 
     anonymous_enable=NO
     local_enable=YES
-    \#write_enable=NO
+    #write_enable=NO
     dirmessage_enable=YES
     xferlog_enable=YES
     xferlog_file=/var/log/vsftpd.log
@@ -48,13 +48,13 @@ vsftp 一般centos自带，安装方法不细说了。
     pam_service_name=vsftpd.vu
     user_config_dir=/etc/vsftpd/vsftpd_user_conf
     virtual_use_local_privs=YES
-    \#pasv_min_port=50000
-    \#pasv_max_port=50010
-    \#pasv_enable=yes
-    \#max_clients=200
-    \#max_per_ip=4
-    \#idle_session_timeout=600
-    \#ftpd_banner=Welcome to CentOS FTP Service.
+    #pasv_min_port=50000
+    #pasv_max_port=50010
+    #pasv_enable=yes
+    #max_clients=200
+    #max_per_ip=4
+    #idle_session_timeout=600
+    #ftpd_banner=Welcome to CentOS FTP Service.
 
 
 ### 4. 建立本地虚拟用户
