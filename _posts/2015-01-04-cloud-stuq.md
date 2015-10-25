@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "云计算(StuQ 技能图谱)"
-date: 2014-01-04
+date: 2015-01-04
 categories: 技能
 tags: 学习 大数据 云计算
 ---
