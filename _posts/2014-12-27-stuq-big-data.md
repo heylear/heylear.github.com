@@ -2,7 +2,7 @@
 layout: post
 title: "大数据(StuQ 技能图谱)"
 date: 2014-12-27
-categories: python
+categories: 技能
 tags: 学习 大数据
 ---
 
