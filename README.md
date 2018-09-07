@@ -1,6 +1,6 @@
 # 博客地址
 
-<http://blog.caihailiang.com/>
+<https://blog.caihailiang.com/>
 
 # 必改内容
 
