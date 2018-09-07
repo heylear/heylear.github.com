@@ -1,6 +1,6 @@
 # 博客地址
 
-<http://www.heylear.com/>
+<http://blog.caihailiang.com/>
 
 # 必改内容
 
